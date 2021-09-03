@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/onevalley/static/css/main.ae67ad50.chunk.css",
-    "main.js": "/onevalley/static/js/main.57d54433.chunk.js",
-    "main.js.map": "/onevalley/static/js/main.57d54433.chunk.js.map",
+    "main.css": "/onevalley/static/css/main.3f7d19a6.chunk.css",
+    "main.js": "/onevalley/static/js/main.54978314.chunk.js",
+    "main.js.map": "/onevalley/static/js/main.54978314.chunk.js.map",
     "runtime-main.js": "/onevalley/static/js/runtime-main.904bc533.js",
     "runtime-main.js.map": "/onevalley/static/js/runtime-main.904bc533.js.map",
     "static/css/2.818011ed.chunk.css": "/onevalley/static/css/2.818011ed.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.7b992c42.chunk.js.map": "/onevalley/static/js/2.7b992c42.chunk.js.map",
     "index.html": "/onevalley/index.html",
     "static/css/2.818011ed.chunk.css.map": "/onevalley/static/css/2.818011ed.chunk.css.map",
-    "static/css/main.ae67ad50.chunk.css.map": "/onevalley/static/css/main.ae67ad50.chunk.css.map",
+    "static/css/main.3f7d19a6.chunk.css.map": "/onevalley/static/css/main.3f7d19a6.chunk.css.map",
     "static/js/2.7b992c42.chunk.js.LICENSE.txt": "/onevalley/static/js/2.7b992c42.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.904bc533.js",
     "static/css/2.818011ed.chunk.css",
     "static/js/2.7b992c42.chunk.js",
-    "static/css/main.ae67ad50.chunk.css",
-    "static/js/main.57d54433.chunk.js"
+    "static/css/main.3f7d19a6.chunk.css",
+    "static/js/main.54978314.chunk.js"
   ]
 }

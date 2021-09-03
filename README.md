@@ -1,6 +1,6 @@
 # OneValley Coding Challenge
 
-## Prerequisities
+## Instructions
 
 This challenge utilizes an API service to act as a proxy for the application to make necessary GET requests. \
 This proxy is only for demonstration purposes. Click on the request button in this [link](https://cors-anywhere.herokuapp.com/corsdemo) to request temporary access for this demonstration.

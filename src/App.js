@@ -18,7 +18,7 @@ class App extends React.Component {
   }
 
   fetchImages() {
-    fetch('https://passport-media.s3-us-west-1.amazonaws.com/images/eng-intern-interview/fruit-images.json')
+    fetch('https://cors-anywhere.herokuapp.com/https://passport-media.s3-us-west-1.amazonaws.com/images/eng-intern-interview/fruit-images.json')
       .then(response => response.json())
       .then(data => this.setState({fruitArr: data}))
   }
@@ -26,7 +26,7 @@ class App extends React.Component {
   fetchData() {
     for(let i = 0; i < this.state.fruitArr.length; i++) {
       let fruitName = parseLink(this.state.fruitArr[i]);
-      fetch(`https://www.fruityvice.com/api/fruit/${fruitName}`)
+      fetch(`https://cors-anywhere.herokuapp.com/https://www.fruityvice.com/api/fruit/${fruitName}`)
         .then(response => response.json())
         .then(data => this.setState((prevState) => {
           let obj = {imgUrl: this.state.fruitArr[i], description: data};
